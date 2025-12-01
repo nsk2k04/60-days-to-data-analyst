@@ -17,7 +17,3 @@ This repository tracks my 60-day journey to become a **Data Analyst**, learning:
 | 4 | 46–55 | Power BI |
 | 5 | 56–60 | Final Project + Portfolio |
 
----
-
-## 🧠 Daily Structure
-Each day will have:
